@@ -1,7 +1,7 @@
-# slack
+# avatars
 
-Public assets for the Clarila Slack workspace. Only public material belongs here: no tokens, configs or company code.
+Public avatar images. Only public images belong here.
 
-| Folder | Contents |
+| Folder | Used by |
 |---|---|
-| `avatars/` | Stage avatars used by clarila-monitor (Intake, Triage, Plan, Build, Verify, Review, Ship, Audit, Report) |
+| `clarila/` | Clarila Slack stages: Intake, Triage, Plan, Build, Verify, Review, Ship, Audit, Report |
